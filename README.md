@@ -58,9 +58,27 @@ This project uses a pre-trained Machine Learning classification model to predict
 
 ## 🤖 ML Model
 
+- **Algorithm:** Support Vector Classifier (SVC)
 - **Model file:** `diabetes` (saved via `joblib`)
 - **Trained in:** `dibetes_main.ipynb`
 - The notebook covers data preprocessing, model training, evaluation, and export
+
+### 📊 Model Performance
+
+| Metric | Score |
+|---|---|
+| ✅ **Accuracy** | **78.12%** |
+| 🎯 **Precision** | **74.04%** |
+| 🔁 **Recall** | **57.46%** |
+| ⚖️ **F1 Score** | **64.71%** |
+
+#### Detailed Classification Report
+
+| Class | Precision | Recall | F1-Score | Support |
+|---|---|---|---|---|
+| 0 — Not Diabetic | 0.80 | 0.89 | 0.84 | 500 |
+| 1 — Diabetic | 0.74 | 0.57 | 0.65 | 268 |
+| **Weighted Avg** | **0.78** | **0.78** | **0.77** | **768** |
 
 ---
 
