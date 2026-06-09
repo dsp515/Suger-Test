@@ -86,9 +86,9 @@ This project uses a pre-trained Machine Learning classification model to predict
 
 | Class | Precision | Recall | F1-Score | Support |
 |:---|:---:|:---:|:---:|:---:|
-| 🟩 **0 — Not Diabetic** | `0.80` | `0.89` | `0.84` | 500 |
-| 🟥 **1 — Diabetic** | `0.74` | `0.57` | `0.65` | 268 |
-| ⬛ **Weighted Average** | **`0.78`** | **`0.78`** | **`0.77`** | **768** |
+| 🟩 **0 — Not Diabetic** | `80%` | `89%` | `84%` | 500 |
+| 🟥 **1 — Diabetic** | `74%` | `57%` | `65%` | 268 |
+| ⬛ **Weighted Average** | **`78%`** | **`78%`** | **`77%`** | **768** |
 
 > 💡 **Model:** SVC trained on 768 samples with 8 health features. Achieves **78% accuracy** on the PIMA Indians Diabetes Dataset.
 
