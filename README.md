@@ -184,10 +184,4 @@ This application is built for **educational purposes only**. The predictions mad
 
 ---
 
-## 👨‍💻 Authors
-
-**Mayank Tak · Krish Nandwana · Naman Bhojwani**
-
----
-
 > ⭐ If you found this project helpful, please give it a star on GitHub!
