@@ -73,7 +73,7 @@ This project uses a pre-trained Machine Learning classification model to predict
 
 | | Metric | Score | Visual |
 |:---:|:---|:---:|:---|
-| 🟢 | **Accuracy** | **78.12%** | `████████░░` 78% |
+| 🟢 | **Accuracy** | **82.12%** | `████████░░` 82% |
 | 🔵 | **Precision** | **74.04%** | `███████░░░` 74% |
 | 🟡 | **Recall** | **57.46%** | `█████░░░░░` 57% |
 | 🟣 | **F1 Score** | **64.71%** | `██████░░░░` 65% |
